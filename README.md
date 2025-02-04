@@ -14,3 +14,9 @@ it is very laggy but it works ig
 still deciding if i want to do stem super bowl or this for my genius hour
 
 
+day 2 (2/3/2025)
+de'andre fox to the spurs with webyamama is crazy
+made it so c + z and stick up pushes A on vgamepad
+we have six buttons and one joystick now
+this could be used in a actual competition
+
