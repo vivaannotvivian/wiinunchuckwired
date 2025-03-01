@@ -1,4 +1,6 @@
 # wiiremotefrc
+[IMG_1022](https://github.com/user-attachments/assets/2705aa6b-ed2c-410a-8be5-1442476adf5a)
+video showcasing: https://drive.google.com/file/d/1avJaBIak8l8YjLDCh0eO-r49szKzW3H9/view?usp=sharing
 using wii remote nunchuck as a wired controller 
 
 xinput-python library = https://pypi.org/project/XInput-Python/#description
@@ -16,6 +18,8 @@ run the python script, if it gives an error when ran, run once more it just does
 
 c button = A
 z button = B
+
+
 left with joystick = X
 right with joystick = Y
 up with joystick = dpad up
