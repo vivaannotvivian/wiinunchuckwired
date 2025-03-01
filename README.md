@@ -1,25 +1,28 @@
 # wiiremotefrc
-using wii remote nunchuck as a controller for frc
+using wii remote nunchuck as a wired controller 
 
 xinput-python library = https://pypi.org/project/XInput-Python/#description
 
 virtual gamepad xbox360 = https://github.com/yannbouteiller/vgamepad
 
-day 1(2/2/2025):
-luka got traded to the lakers; and ad to the mavs, what a horrible trade
+install steps:
+pip install xinput & vgamepad(double click the names on the docs)
 
-we got to work, designing a driver where if i hold down a button, it controls the left joy stick, and if i don't, it controls the right
-spent probably 7 hours today
-it is very laggy but it works ig
-still deciding if i want to do stem super bowl or this for my genius hour
+make sure you have the arudino ide and your python ide installed
+
+run the arudino code(make sure not to open the serial moniter)
+
+run the python script, if it gives an error when ran, run once more it just does that sometimes
+
+c button = A
+z button = B
+left with joystick = X
+right with joystick = Y
+up with joystick = dpad up
+down with joystick = dpad down
 
 
-day 2 (2/3/2025)
-de'andre fox to the spurs with webyamama is crazy
 
-made it so c + z and stick up pushes A on vgamepad
 
-we have six buttons and one joystick now
 
-this could be used in a actual competition
 
