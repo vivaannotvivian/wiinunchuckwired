@@ -1,4 +1,5 @@
-# wiiremotefrc
+# wiinunchuck wired
+
 [IMG_1022](https://github.com/user-attachments/assets/2705aa6b-ed2c-410a-8be5-1442476adf5a)
 video showcasing: https://drive.google.com/file/d/1avJaBIak8l8YjLDCh0eO-r49szKzW3H9/view?usp=sharing
 using wii remote nunchuck as a wired controller 
